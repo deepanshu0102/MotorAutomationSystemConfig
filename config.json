@@ -3,8 +3,8 @@
   "maxDryRunTime": 1800000,
   "cooldownTime": 10800000,
   "pollingDuration": 300000,
-  "morningHour": 6,   
-  "morningMinute": 30,
-  "eveningHour": 20,   
-  "eveningMinute": 15 
+  "morningHour": 7,   
+  "morningMinute": 0,
+  "eveningHour": 19,   
+  "eveningMinute": 0 
 }
