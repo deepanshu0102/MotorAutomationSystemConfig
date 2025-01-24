@@ -1,0 +1,10 @@
+{
+  "maxMotorRunTime": 60000,
+  "maxDryRunTime": 30000,
+  "cooldownTime": 30000,
+  "pollingDuration": 3000,
+  "morningHour": 7,   
+  "morningMinute": 0,
+  "eveningHour": 19,   
+  "eveningMinute": 0 
+}
