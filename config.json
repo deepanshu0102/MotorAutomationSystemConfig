@@ -1,8 +1,8 @@
 {
   "maxMotorRunTime": 3600000,
   "_maxMotorRunTime_": "60.0 min in ms - 2700000",
-  "maxDryRunTime": 1800000,
-  "_maxDryRunTime_": "30.0 min in ms - 1800000",
+  "maxDryRunTime": 900000,
+  "_maxDryRunTime_": "15 min in ms - 1800000",
   "cooldownTime": 10800000,
   "_cooldownTime_": "3.0 hours in ms - 10800000",
   "pollingDuration": 30000,
