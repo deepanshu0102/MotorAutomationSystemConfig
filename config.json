@@ -8,7 +8,7 @@
   "cooldownTime": 10800000,
   "_cooldownTime_": "3.0 hours in ms - 10800000",
 
-  "pollingDuration": 300000,
+  "pollingDuration": 30000,
   "_pollingDuration_": "5.0 min in ms - 300000",
 
   "morningHour": 7,
