@@ -1,14 +1,34 @@
 {
   "maxMotorRunTime": 3600000,
   "_maxMotorRunTime_": "60.0 min in ms - 2700000",
+
   "maxDryRunTime": 900000,
   "_maxDryRunTime_": "15 min in ms - 1800000",
+
   "cooldownTime": 10800000,
   "_cooldownTime_": "3.0 hours in ms - 10800000",
+
   "pollingDuration": 300000,
   "_pollingDuration_": "5.0 min in ms - 300000",
+
   "morningHour": 7,
   "morningMinute": 0,
   "eveningHour": 19,
-  "eveningMinute": 0
+  "eveningMinute": 0,
+
+  "tankEmptyCM": 100.0,
+  "_tankEmptyCM_": "Distance from sensor when tank is empty",
+
+  "tankFullCM": 30.0,
+  "_tankFullCM_": "Distance from sensor when tank is full",
+
+  "motorOnThresholdPercent": 50,
+  "_motorOnThresholdPercent_": "Motor turns ON when water level % is below this",
+
+  "motorOffThresholdPercent": 100,
+  "_motorOffThresholdPercent_": "Motor turns OFF when water level % reaches this",
+
+  "dryRunIncreasePercent": 5,
+  "_dryRunIncreasePercent_": "Minimum % increase in water level required after motor ON to avoid dry-run shutdown"
+
 }
