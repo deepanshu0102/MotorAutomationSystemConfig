@@ -22,7 +22,7 @@
   "tankFullCM": 30.0,
   "_tankFullCM_": "Distance from sensor when tank is full",
 
-  "motorOnThresholdPercent": 50,
+  "motorOnThresholdPercent": 30,
   "_motorOnThresholdPercent_": "Motor turns ON when water level % is below this",
 
   "motorOffThresholdPercent": 100,
