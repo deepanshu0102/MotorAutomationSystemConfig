@@ -19,7 +19,7 @@
   "tankEmptyCM": 100.0,
   "_tankEmptyCM_": "Distance from sensor when tank is empty",
 
-  "tankFullCM": 30.0,
+  "tankFullCM": 20.0,
   "_tankFullCM_": "Distance from sensor when tank is full",
 
   "motorOnThresholdPercent": 30,
