@@ -11,7 +11,7 @@
   "pollingDuration": 300000,
   "_pollingDuration_": "5.0 min in ms - 300000",
 
-  "morningHour": 7,
+  "morningHour": 8,
   "morningMinute": 0,
   "eveningHour": 19,
   "eveningMinute": 0,
@@ -22,7 +22,7 @@
   "tankFullCM": 20.0,
   "_tankFullCM_": "Distance from sensor when tank is full",
 
-  "motorOnThresholdPercent": 30,
+  "motorOnThresholdPercent": 50,
   "_motorOnThresholdPercent_": "Motor turns ON when water level % is below this",
 
   "motorOffThresholdPercent": 100,
